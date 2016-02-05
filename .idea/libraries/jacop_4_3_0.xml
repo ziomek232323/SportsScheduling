@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jacop-4.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jacop-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

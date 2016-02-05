@@ -1,0 +1,399 @@
+Round 1		
+	Match 1: AFC Bournemouth v West Ham United;	
+
+	Match 2: Arsenal v West Bromwich Albion;	
+
+	Match 3: Aston Villa v Watford;	
+
+	Match 4: Chelsea v Tottenham Hotspur;	
+
+	Match 5: Crystal Palace v Swansea City;	
+
+	Match 6: Everton v Sunderland;	
+
+	Match 7: Leicester City v Stoke City;	
+
+	Match 8: Liverpool v Southampton;	
+
+	Match 9: Manchester City v Norwich City;	
+
+	Match 10: Manchester United v Newcastle United;	
+
+Round 2		
+	Match 1: West Ham United; v Newcastle United	
+
+	Match 2: Norwich City v Manchester United;	
+
+	Match 3: Southampton v Manchester City;	
+
+	Match 4: Stoke City v Liverpool;	
+
+	Match 5: Sunderland v Leicester City;	
+
+	Match 6: Swansea City v Everton;	
+
+	Match 7: Tottenham Hotspur v Crystal Palace;	
+
+	Match 8: Watford v Chelsea;	
+
+	Match 9: West Bromwich Albion v Aston Villa;	
+
+	Match 10: AFC Bournemouth v Arsenal;	
+
+Round 3		
+	Match 1: Arsenal v West Ham United;	
+
+	Match 2: Aston Villa v AFC Bournemouth;	
+
+	Match 3: Chelsea v West Bromwich Albion;	
+
+	Match 4: Crystal Palace v Watford;	
+
+	Match 5: Everton v Tottenham Hotspur;	
+
+	Match 6: Leicester City v Swansea City;	
+
+	Match 7: Liverpool v Sunderland;	
+
+	Match 8: Manchester City v Stoke City;	
+
+	Match 9: Manchester United v Southampton;	
+
+	Match 10: Newcastle United v Norwich City;	
+
+Round 4		
+	Match 1: West Ham United; v Norwich City	
+
+	Match 2: Southampton v Newcastle United;	
+
+	Match 3: Stoke City v Manchester United;	
+
+	Match 4: Sunderland v Manchester City;	
+
+	Match 5: Swansea City v Liverpool;	
+
+	Match 6: Tottenham Hotspur v Leicester City;	
+
+	Match 7: Watford v Everton;	
+
+	Match 8: West Bromwich Albion v Crystal Palace;	
+
+	Match 9: AFC Bournemouth v Chelsea;	
+
+	Match 10: Arsenal v Aston Villa;	
+
+Round 5		
+	Match 1: Aston Villa v West Ham United;	
+
+	Match 2: Chelsea v Arsenal;	
+
+	Match 3: Crystal Palace v AFC Bournemouth;	
+
+	Match 4: Everton v West Bromwich Albion;	
+
+	Match 5: Leicester City v Watford;	
+
+	Match 6: Liverpool v Tottenham Hotspur;	
+
+	Match 7: Manchester City v Swansea City;	
+
+	Match 8: Manchester United v Sunderland;	
+
+	Match 9: Newcastle United v Stoke City;	
+
+	Match 10: Norwich City v Southampton;	
+
+Round 6		
+	Match 1: West Ham United; v Southampton	
+
+	Match 2: Stoke City v Norwich City;	
+
+	Match 3: Sunderland v Newcastle United;	
+
+	Match 4: Swansea City v Manchester United;	
+
+	Match 5: Tottenham Hotspur v Manchester City;	
+
+	Match 6: Watford v Liverpool;	
+
+	Match 7: West Bromwich Albion v Leicester City;	
+
+	Match 8: AFC Bournemouth v Everton;	
+
+	Match 9: Arsenal v Crystal Palace;	
+
+	Match 10: Aston Villa v Chelsea;	
+
+Round 7		
+	Match 1: Chelsea v West Ham United;	
+
+	Match 2: Crystal Palace v Aston Villa;	
+
+	Match 3: Everton v Arsenal;	
+
+	Match 4: Leicester City v AFC Bournemouth;	
+
+	Match 5: Liverpool v West Bromwich Albion;	
+
+	Match 6: Manchester City v Watford;	
+
+	Match 7: Manchester United v Tottenham Hotspur;	
+
+	Match 8: Newcastle United v Swansea City;	
+
+	Match 9: Norwich City v Sunderland;	
+
+	Match 10: Southampton v Stoke City;	
+
+Round 8		
+	Match 1: West Ham United; v Stoke City	
+
+	Match 2: Sunderland v Southampton;	
+
+	Match 3: Swansea City v Norwich City;	
+
+	Match 4: Tottenham Hotspur v Newcastle United;	
+
+	Match 5: Watford v Manchester United;	
+
+	Match 6: West Bromwich Albion v Manchester City;	
+
+	Match 7: AFC Bournemouth v Liverpool;	
+
+	Match 8: Arsenal v Leicester City;	
+
+	Match 9: Aston Villa v Everton;	
+
+	Match 10: Chelsea v Crystal Palace;	
+
+Round 9		
+	Match 1: Crystal Palace v West Ham United;	
+
+	Match 2: Everton v Chelsea;	
+
+	Match 3: Leicester City v Aston Villa;	
+
+	Match 4: Liverpool v Arsenal;	
+
+	Match 5: Manchester City v AFC Bournemouth;	
+
+	Match 6: Manchester United v West Bromwich Albion;	
+
+	Match 7: Newcastle United v Watford;	
+
+	Match 8: Norwich City v Tottenham Hotspur;	
+
+	Match 9: Southampton v Swansea City;	
+
+	Match 10: Stoke City v Sunderland;	
+
+Round 10		
+	Match 1: West Ham United; v Sunderland	
+
+	Match 2: Swansea City v Stoke City;	
+
+	Match 3: Tottenham Hotspur v Southampton;	
+
+	Match 4: Watford v Norwich City;	
+
+	Match 5: West Bromwich Albion v Newcastle United;	
+
+	Match 6: AFC Bournemouth v Manchester United;	
+
+	Match 7: Arsenal v Manchester City;	
+
+	Match 8: Aston Villa v Liverpool;	
+
+	Match 9: Chelsea v Leicester City;	
+
+	Match 10: Crystal Palace v Everton;	
+
+Round 11		
+	Match 1: Everton v West Ham United;	
+
+	Match 2: Leicester City v Crystal Palace;	
+
+	Match 3: Liverpool v Chelsea;	
+
+	Match 4: Manchester City v Aston Villa;	
+
+	Match 5: Manchester United v Arsenal;	
+
+	Match 6: Newcastle United v AFC Bournemouth;	
+
+	Match 7: Norwich City v West Bromwich Albion;	
+
+	Match 8: Southampton v Watford;	
+
+	Match 9: Stoke City v Tottenham Hotspur;	
+
+	Match 10: Sunderland v Swansea City;	
+
+Round 12		
+	Match 1: West Ham United; v Swansea City	
+
+	Match 2: Tottenham Hotspur v Sunderland;	
+
+	Match 3: Watford v Stoke City;	
+
+	Match 4: West Bromwich Albion v Southampton;	
+
+	Match 5: AFC Bournemouth v Norwich City;	
+
+	Match 6: Arsenal v Newcastle United;	
+
+	Match 7: Aston Villa v Manchester United;	
+
+	Match 8: Chelsea v Manchester City;	
+
+	Match 9: Crystal Palace v Liverpool;	
+
+	Match 10: Everton v Leicester City;	
+
+Round 13		
+	Match 1: Leicester City v West Ham United;	
+
+	Match 2: Liverpool v Everton;	
+
+	Match 3: Manchester City v Crystal Palace;	
+
+	Match 4: Manchester United v Chelsea;	
+
+	Match 5: Newcastle United v Aston Villa;	
+
+	Match 6: Norwich City v Arsenal;	
+
+	Match 7: Southampton v AFC Bournemouth;	
+
+	Match 8: Stoke City v West Bromwich Albion;	
+
+	Match 9: Sunderland v Watford;	
+
+	Match 10: Swansea City v Tottenham Hotspur;	
+
+Round 14		
+	Match 1: West Ham United; v Tottenham Hotspur	
+
+	Match 2: Watford v Swansea City;	
+
+	Match 3: West Bromwich Albion v Sunderland;	
+
+	Match 4: AFC Bournemouth v Stoke City;	
+
+	Match 5: Arsenal v Southampton;	
+
+	Match 6: Aston Villa v Norwich City;	
+
+	Match 7: Chelsea v Newcastle United;	
+
+	Match 8: Crystal Palace v Manchester United;	
+
+	Match 9: Everton v Manchester City;	
+
+	Match 10: Leicester City v Liverpool;	
+
+Round 15		
+	Match 1: Liverpool v West Ham United;	
+
+	Match 2: Manchester City v Leicester City;	
+
+	Match 3: Manchester United v Everton;	
+
+	Match 4: Newcastle United v Crystal Palace;	
+
+	Match 5: Norwich City v Chelsea;	
+
+	Match 6: Southampton v Aston Villa;	
+
+	Match 7: Stoke City v Arsenal;	
+
+	Match 8: Sunderland v AFC Bournemouth;	
+
+	Match 9: Swansea City v West Bromwich Albion;	
+
+	Match 10: Tottenham Hotspur v Watford;	
+
+Round 16		
+	Match 1: West Ham United; v Watford	
+
+	Match 2: West Bromwich Albion v Tottenham Hotspur;	
+
+	Match 3: AFC Bournemouth v Swansea City;	
+
+	Match 4: Arsenal v Sunderland;	
+
+	Match 5: Aston Villa v Stoke City;	
+
+	Match 6: Chelsea v Southampton;	
+
+	Match 7: Crystal Palace v Norwich City;	
+
+	Match 8: Everton v Newcastle United;	
+
+	Match 9: Leicester City v Manchester United;	
+
+	Match 10: Liverpool v Manchester City;	
+
+Round 17		
+	Match 1: Manchester City v West Ham United;	
+
+	Match 2: Manchester United v Liverpool;	
+
+	Match 3: Newcastle United v Leicester City;	
+
+	Match 4: Norwich City v Everton;	
+
+	Match 5: Southampton v Crystal Palace;	
+
+	Match 6: Stoke City v Chelsea;	
+
+	Match 7: Sunderland v Aston Villa;	
+
+	Match 8: Swansea City v Arsenal;	
+
+	Match 9: Tottenham Hotspur v AFC Bournemouth;	
+
+	Match 10: Watford v West Bromwich Albion;	
+
+Round 18		
+	Match 1: West Ham United; v West Bromwich Albion	
+
+	Match 2: AFC Bournemouth v Watford;	
+
+	Match 3: Arsenal v Tottenham Hotspur;	
+
+	Match 4: Aston Villa v Swansea City;	
+
+	Match 5: Chelsea v Sunderland;	
+
+	Match 6: Crystal Palace v Stoke City;	
+
+	Match 7: Everton v Southampton;	
+
+	Match 8: Leicester City v Norwich City;	
+
+	Match 9: Liverpool v Newcastle United;	
+
+	Match 10: Manchester City v Manchester United;	
+
+Round 19		
+	Match 1: Manchester United v West Ham United;	
+
+	Match 2: Newcastle United v Manchester City;	
+
+	Match 3: Norwich City v Liverpool;	
+
+	Match 4: Southampton v Leicester City;	
+
+	Match 5: Stoke City v Everton;	
+
+	Match 6: Sunderland v Crystal Palace;	
+
+	Match 7: Swansea City v Chelsea;	
+
+	Match 8: Tottenham Hotspur v Aston Villa;	
+
+	Match 9: Watford v Arsenal;	
+
+	Match 10: West Bromwich Albion v AFC Bournemouth;	
+
